@@ -34,11 +34,11 @@ plugins:
 
 # theme                  : "minimal-mistakes-jekyll"
 # remote_theme           : "mmistakes/minimal-mistakes"
-minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+minimal_mistakes_skin    : "sunrise" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Starup in a month"
+title                    : "Startup in a Month"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Andy Fry"
@@ -117,7 +117,7 @@ analytics:
 author:
   name             : "Andy Fry"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I'm building 12 startups in 12 months using Clojure and ClojureScript. I've never founded a startup, and I've never used Clojure!"
+  bio              : "I'm building 12 startups in 12 months using Clojure and ClojureScript. I've never founded a startup, and I've never used Clojure! Should be fun right?"
   location         : "New York, USA"
   email            :
   links:
