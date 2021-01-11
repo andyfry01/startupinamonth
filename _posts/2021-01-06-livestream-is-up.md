@@ -21,3 +21,4 @@ Each month for the next year, I'll be building, promoting, and releasing one sta
 You couldn't ask for a better time than now, so I'm taking the plunge into it. A unique twist I'm going to put on it, though, is that I'm going to livestream the whole thing. I've already got a channel and a couple of recorded streams up on Twitch if you'd like to check it out: <a href="https://www.twitch.tv/a_fry_" target="_blank">twitch.tv/a_fry_</a>.
 
 So anyway, that's the project in a nutshell so far. I'm excited to be taking my first steps on this weird journey. If it works out, then that's awesome, and if it doesn't, then my worst case scenario is that I ended up spending a year of my life following my fancy and building 12 awesome portfolio pieces to show to a future employer. Sounds like a good tradeoff to me.
+
