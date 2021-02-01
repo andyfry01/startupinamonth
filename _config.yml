@@ -92,19 +92,22 @@ naver_site_verification  :
 
 # Social Sharing
 twitter:
-  username               :
-facebook:
+  username: "startupinamonth"
+facebook: 
   username               :
   app_id                 :
   publisher              :
-og_image                 : # Open Graph/Twitter default site image
+og_image                 : /assets/images/profile-pic.png
 # For specifying social profiles
 # - https://developers.google.com/structured-data/customize/social-profiles
 social:
   type                   : # Person or Organization (defaults to Person)
   name                   : # If the user or organization name differs from the site's name
-  links: # An array of links to social media profiles
-
+  links: 
+    - https://twitter.com/startupinamonth
+    - https://www.twitch.tv/a_fry_
+    - https://www.youtube.com/channel/UCkDn7Pnyeq3SJha1x3GXTkQ
+  
 # Analytics
 analytics:
   provider: "google-gtag"
@@ -112,39 +115,29 @@ analytics:
     tracking_id: "G-3F9Z0YRFH9"
     anonymize_ip: true 
 
-# analytics:
-#   provider               : false # false (default), "google", "google-universal", "google-gtag", "custom"
-#   google:
-#     tracking_id          :
-#     anonymize_ip         : # true, false (default)
-
-
 # Site Author
 author:
   name             : "Andy Fry"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : /assets/images/profile-pic.png
   bio              : "I'm building 12 startups in 12 months using Clojure and ClojureScript. I've never founded a startup, and I've never used Clojure! Should be fun right?"
   location         : "New York, USA"
-  email            :
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      # url: "mailto:your.name@email.com"
+      url: "mailto:andy@startupinamonth.net"
     - label: "Website"
       icon: "fas fa-fw fa-link"
-      # url: "https://your-website.com"
+      url: "https://startupinamonth.net"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
-      # url: "https://twitter.com/"
-    - label: "Facebook"
-      icon: "fab fa-fw fa-facebook-square"
-      # url: "https://facebook.com/"
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      # url: "https://github.com/"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      # url: "https://instagram.com/"
+      url: "https://twitter.com/startupinamonth"
+    - label: "Twitch"
+      icon: "fab fa-fw fa-twitch"
+      url: "https://www.twitch.tv/a_fry_"
+    - label: "YouTube"
+      icon: "fab fa-fw fa-youtube"
+      url: "https://www.youtube.com/channel/UCkDn7Pnyeq3SJha1x3GXTkQ."
+
 
 # Site Footer
 footer:
