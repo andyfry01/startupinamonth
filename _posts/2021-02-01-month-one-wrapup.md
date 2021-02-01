@@ -14,7 +14,8 @@ excerpt: "If the sarcasm hasn't wilted your mind to ash already, I'll come out a
 "Feast your eyes on this magnificent, splendorous feat of algebraic functional harmony! Listen to it purr, look on with amazement as it nimbly reacts to state changes across multiple connected clients! Look all you like ladies and gentlemen, and yes, it is only **$5** to play!" 
 
 "Do I have any takers?"
-{{ post.excerpt }} I've got a domain name and an cobwebbed Linux droplet floating somewhere out there in the Digital Ocean, and the rest remains locked away on my hard disk. 
+
+If the sarcasm hasn't wilted your mind to ash already, I'll come out and state it plainly: here we are, at the end of Month One, and I stand before you empty handed. No landing page, no MVP product, absolutely nothing. I've got a domain name and an cobwebbed Linux droplet floating somewhere out there in the Digital Ocean, and the rest remains locked away on my hard disk. 
 
 I don't think I even have a git commit hash to show for my efforts, nevermind a startup. In short: this first month was a complete, unmitigated failure. 
 
