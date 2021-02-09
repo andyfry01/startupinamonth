@@ -9,7 +9,7 @@ Make awesome photo stories, share them with anybody!
 
 ## Summary
 
-The inspiration for this comes from my frustration with Google Photos albums. Here's a [silly example album](https://photos.google.com/album/AF1QipMlAman7ujEPsQRTn3u0oKHbXJ1BIZe4HRzDkRi) if you've never used the app before. 
+The inspiration for this comes from my frustration with Google Photos albums. Here's a [silly example album](https://photos.app.goo.gl/WgKQ6Tb1ErkB2Smk7) if you've never used the app before. 
 
 The album feature is really cool in theory: you can use it to select photos that you've taken and turn them into an album. You can drag images around into a custom layout, add captions, and add blocks of text in between groupings of photos. At the end you get a shareable link that you can send out to family and friends. It's more accessible than a Facebook album, and more visually appealing than just stacking the photos one on top of the other
 
