@@ -3,9 +3,6 @@ title: "Month Two Week One: Older and Somewhat Wiser"
 excerpt: "This time around though, the product is much simpler. The basics of what I need to do seem obvious."
 ---
 
-
-# Month Two Week One: Older and Somewhat Wiser
-
 [Watch me program live every morning at 9:30 EST!](https://www.twitch.tv/a_fry_)
 
 [Check out past streams on YouTube!](https://www.youtube.com/channel/UCkDn7Pnyeq3SJha1x3GXTkQ)
