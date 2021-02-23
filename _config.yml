@@ -2,7 +2,7 @@ email: andy@startupinamonth.net
 
 description: I’m building 12 startups in 12 months using Clojure and ClojureScript. I’ve never founded a startup, and I’ve never used Clojure! Should be fun right?
 
-# baseurl: "" # the subpath of your site, e.g. /blog
+baseurl: "/" # the subpath of your site, e.g. /blog
 url: "https://startupinamonth.net" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: startupinamonth
 # github_username:  jekyll
