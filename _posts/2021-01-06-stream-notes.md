@@ -21,4 +21,4 @@
 - Grab email on backend server
 - Send email back to server on submit
 - Set up database
-- Save email in database
+- Save email in database.
