@@ -1,4 +1,7 @@
-# 01/20/2021 Stream notes
+---
+title: "01/20/2021 Stream notes"
+excerpt: ""
+---
 
 ## Plan
 

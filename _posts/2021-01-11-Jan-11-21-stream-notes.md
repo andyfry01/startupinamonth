@@ -1,4 +1,7 @@
-# 1/11/2021 stream notes
+---
+title: "1/11/2021 stream notes"
+excerpt: ""
+---
 
 ## Stream stuff
 - Build the whole thing on the stream, but...

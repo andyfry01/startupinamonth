@@ -1,4 +1,7 @@
-# 02/01/2021 Stream notes
+---
+title: "02/01/2021 Stream notes"
+excerpt: ""
+---
 
 ## News
 

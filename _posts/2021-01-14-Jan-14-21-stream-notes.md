@@ -1,4 +1,7 @@
-# 01/14/2021 Stream notes
+---
+title: "01/14/2021 Stream notes"
+excerpt: ""
+---
 
 ## Today
 

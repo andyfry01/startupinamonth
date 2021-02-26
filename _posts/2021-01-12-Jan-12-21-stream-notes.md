@@ -1,4 +1,7 @@
-# 1/12/2021 stream notes
+---
+title: "1/12/2021 stream notes"
+excerpt: ""
+---
 
 ## Plan for the morning
 - Start on game itself!

@@ -1,4 +1,7 @@
-# 01/13/2021 Stream notes
+---
+title: "01/13/2021 Stream notes"
+excerpt: ""
+---
 
 ## Monday and Tuesday
 

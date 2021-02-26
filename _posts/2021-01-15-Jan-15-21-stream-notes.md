@@ -1,4 +1,7 @@
-# 01/18/2021 Stream notes
+---
+title: "01/18/2021 Stream notes"
+excerpt: ""
+---
 
 ## News
 

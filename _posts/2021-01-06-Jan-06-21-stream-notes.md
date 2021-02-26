@@ -1,4 +1,7 @@
-# Stream Summary 1/7/20201
+---
+title: "1/7/2021 Stream Notes"
+excerpt: ""
+---
 
 # Goals for the day
 ## Project promotion
