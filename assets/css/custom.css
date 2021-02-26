@@ -1,0 +1,39 @@
+.primary-cta {
+    width: 100%;
+    color: rgba(255, 255, 255, 1);
+    text-align: center; 
+    padding-left: 1rem;
+    padding-right: 1rem;
+    padding-top: 0.5rem;
+    padding-bottom: 0.5rem;
+    margin-top: 0.625rem;
+    margin-bottom: 1.5rem;
+    font-weight: 700;
+    border-bottom-width: 4px;
+    border-radius: 0.25rem;
+    border-color: rgba(29, 78, 216, 1);
+    background-color: rgba(37, 99, 235, 1);
+    cursor: pointer;
+    background-image: none;
+    -webkit-appearance: button;
+    overflow: visible;
+    font-family: inherit;
+    font-size: 100%;
+    line-height: 1.15;
+}
+
+.gdpr-permission {
+    /* height: 1.2rem; */
+    display: inline-flex;
+    flex-direction: row;
+    align-items: baseline; 
+}
+
+.gdpr-permission label {
+    display: inline-block;
+    margin-left: 0.25rem;
+}
+
+a {
+    color: rgba(29, 78, 216, 1);
+}
