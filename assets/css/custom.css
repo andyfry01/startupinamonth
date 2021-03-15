@@ -37,3 +37,8 @@
 a {
     color: rgba(29, 78, 216, 1);
 }
+
+.photo-attribution {
+    text-align: center;
+    font-size: 0.8rem !important;
+}
