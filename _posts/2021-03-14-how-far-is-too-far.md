@@ -1,6 +1,6 @@
 ---
 title: "How far is too far?"
-excerpt: "The growth and nurturing of the spirit is **absolutely essential** to the thing that sits above the act of writing code..."
+excerpt: "The growth of the spirit is absolutely essential to the thing stitting above the act of writing code..."
 ---
 
 (New here? [Find out what Startup in a Month is about](/what-is-startup-in-a-month/)!)
