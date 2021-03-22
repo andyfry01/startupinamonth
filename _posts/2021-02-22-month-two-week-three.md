@@ -88,3 +88,36 @@ And what are my "instruments" in this example? Sleeping well. Eating well. Takin
 When things get weird, disregarding your instruments and shoving the throttle forward is a really easy choice to make. It is so easy to mistrust and disregard the things keeping the plane steady and to try to pull through the cloudy parts. It's easy to imagine that there's nothing except for you controling the plane. But all of that eminently ignorable stuff behind the instrument panel is really the stuff that's doing the flying. The very things which are so easy to write off as a "waste of time" or a "distraction" from the Work are the very things that enable the Work to continue apace. 
 
 I need my instruments. However loathe I am to give up my sense of autonomy to them, my feelings of invincibility, the sense that I know what to do during the weird, ugly parts of this flight, I need them. 
+
+## One last thing
+
+Thanks for reading this! It's a busy world, and it means a lot that you spent some of your your time and attention on what I'm doing. 
+
+Would you like to join my mailing list? I send out updates once a month, so you can stay informed on what's going on, but not _too_ informed 😊
+
+<form action="https://sendy.startupinamonth.net/subscribe" method="POST" accept-charset="utf-8">
+	<label for="name">Name</label><br/>
+	<input style="background: white;" type="text" name="name" id="name"/>
+	<br/>
+	<label for="email">Email</label><br/>
+	<input style="background: white;" type="email" name="email" id="email"/><br/><br/>
+	<div style="margin-bottom: 1.5rem;">
+		<span class="gdpr-permission">
+			<input type="checkbox" name="gdpr" id="gdpr"/>
+			<label for="gdpr"><strong>Marketing permission</strong>:</label>
+		</span>
+		<span>
+			I give my consent to contact me via email for the purpose of news, updates and marketing. If you wish to withdraw your consent, click the unsubscribe link at the bottom of our emails or send an email to <a href="mailto:andy@startupinamonth.net">andy@startupinamonth.net</a>.
+		</span>
+	</div>
+    <br/><br/>
+	<div style="display:none;">
+		<label for="hp">HP</label><br/>
+		<input type="text" name="hp" id="hp"/>
+	</div>
+		<input type="hidden" name="list" value="8xpdlVrcgW8921MAwkzOi1vw"/>
+		<input type="hidden" name="subform" value="yes"/>
+	<div>
+		<button class="primary-cta" type="submit" name="submit" id="submit">Sign me up!</button>
+	</div>
+</form>
