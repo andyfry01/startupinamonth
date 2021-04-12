@@ -1,9 +1,7 @@
 ---
-title: "Mail File product announcement"
+title: "Mail File: stop emailing yourself!"
 excerpt: "Stop emailing yourself! There's a better way."
 ---
-
-# Mail File: stop emailing yourself!
 
 Have you ever emailed yourself something to save it for later? I do it constantly. A link, a nice quote I'd like to remember, a recipe I want to cook later that night, it could be anything.
 
