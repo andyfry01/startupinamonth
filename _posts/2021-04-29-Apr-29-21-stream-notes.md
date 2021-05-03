@@ -38,3 +38,5 @@ Why so serious?
 - [RFC 5322 email message spec. We've struck internet bedrock ⛏](https://www.ietf.org/rfc/rfc5322.txt)
 
 ## Stream Video
+
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/LmsHnASPzHE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
