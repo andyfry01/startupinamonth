@@ -1,6 +1,6 @@
 ---
 title: "What I learned launching my first product, part 1"
-excerpt: "Stop emailing yourself! There's a better way."
+excerpt: "Just launch! You'll be glad you did 😊"
 ---
 
 Welcome! This post is part of a blog series about things that I've learned from releasing my first product as a bootstrapped startup founder. It's been a massively educational process for me, and I want to share my learnings for the benefit of others and to document the journey for myself. 
