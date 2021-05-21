@@ -3,6 +3,8 @@ title: "What I learned launching my first product, part 1"
 excerpt: "Just launch! You'll be glad you did 😊"
 ---
 
+[Read part 2 of this series](/what-i-learned-pt-2/)
+
 Welcome! This post is part of a blog series about things that I've learned from releasing my first product as a bootstrapped startup founder. It's been a massively educational process for me, and I want to share my learnings for the benefit of others and to document the journey for myself. 
 
 These posts are all about [PicStory](https://picstory.studio), which is an app that lets you make cool photo stories and share them with anybody. It has three goals: 
@@ -53,6 +55,9 @@ So there's lesson one: I'm arguably the worst person to validate whether any of 
 My advice to you if you're trying to figure out whether to launch or whether to hold back: launch now! It doesn't need to be a hard launch, the product doesn't even need to be finished. By launching in any capacity, you'll gain so much insight into your product by watching people use it. You might never gain this perspective otherwise, and understanding how others will see it is and use it is vital to your success. It will go on to inform future iterations of the product, and you'll feel better knowing that you're playing with a fuller deck of cards.
 
 So just launch! You'll be glad you did 😊
+
+Check out [part 2 of this series](/what-i-learned-pt-2/) for more lessons learned.
+
 
 ## One last thing
 
