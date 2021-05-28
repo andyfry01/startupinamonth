@@ -4,6 +4,8 @@ excerpt: "The Hunt for Alice, or: The Tyranny of Small Things"
 ---
 
 [Read part 1 of this series](/what-i-learned-pt-1/)
+<br />
+[Read part 3 of this series](/what-i-learned-pt-3/)
 
 Welcome! This post is part of a blog series about things that I've learned from releasing my first product as a bootstrapped startup founder. It's been a massively educational process for me, and I want to share my learnings for the benefit of others and to document the journey for myself. 
 
