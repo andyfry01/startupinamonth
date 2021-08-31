@@ -104,11 +104,11 @@ social:
     - https://www.youtube.com/channel/UCkDn7Pnyeq3SJha1x3GXTkQ
   
 # Analytics
-analytics:
-  provider: "google-gtag"
-  google:
-    tracking_id: "G-3F9Z0YRFH9"
-    anonymize_ip: true 
+# analytics:
+#   provider: "google-gtag"
+#   google:
+#     tracking_id: "G-3F9Z0YRFH9"
+#     anonymize_ip: true 
 
 # Site Author
 author:
